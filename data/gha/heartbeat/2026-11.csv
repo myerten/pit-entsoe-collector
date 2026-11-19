@@ -1,0 +1,2 @@
+run_start_utc,run_end_utc,collector,n_requests,n_ok,n_nodata,n_error,n_events
+2026-11-19T08:03:28Z,2026-11-19T08:05:07Z,gha,72,40,32,0,40
