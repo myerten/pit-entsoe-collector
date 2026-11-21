@@ -9,11 +9,11 @@
 },
 "BE|gen_da|2026-11-21": {
 "hash": "4b71348b6909d31b",
-"last_poll": "2026-11-21T10:17:36Z"
+"last_poll": "2026-11-21T17:43:59Z"
 },
 "BE|gen_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:36Z"
+"hash": "f52a687775b3cb99",
+"last_poll": "2026-11-21T17:43:59Z"
 },
 "BE|load_da|2026-11-19": {
 "hash": "25aa1a0fadfd2a78",
@@ -25,11 +25,11 @@
 },
 "BE|load_da|2026-11-21": {
 "hash": "f62c40758e3b8709",
-"last_poll": "2026-11-21T10:17:32Z"
+"last_poll": "2026-11-21T17:43:57Z"
 },
 "BE|load_da|2026-11-22": {
-"hash": "6ac4148905ad8247",
-"last_poll": "2026-11-21T10:17:33Z"
+"hash": "424ecfd758bcccc2",
+"last_poll": "2026-11-21T17:43:58Z"
 },
 "BE|price_da|2026-11-19": {
 "hash": "3df67e8cc50af0d0",
@@ -41,11 +41,11 @@
 },
 "BE|price_da|2026-11-21": {
 "hash": "e8e3deb8d5b478c5",
-"last_poll": "2026-11-21T10:17:46Z"
+"last_poll": "2026-11-21T17:44:04Z"
 },
 "BE|price_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:47Z"
+"hash": "006e79b7c4e4e63b",
+"last_poll": "2026-11-21T17:44:04Z"
 },
 "BE|ws_cur|2026-11-19": {
 "hash": "733590e7ee7c5db2",
@@ -56,12 +56,12 @@
 "last_poll": "2026-11-20T21:29:50Z"
 },
 "BE|ws_cur|2026-11-21": {
-"hash": "e1a9df1de0873577",
-"last_poll": "2026-11-21T10:17:44Z"
+"hash": "2003dbe69c731cd2",
+"last_poll": "2026-11-21T17:44:03Z"
 },
 "BE|ws_cur|2026-11-22": {
-"hash": "1f28b6e3e54c2494",
-"last_poll": "2026-11-21T10:17:45Z"
+"hash": "f685cb9d4cb1b5aa",
+"last_poll": "2026-11-21T17:44:03Z"
 },
 "BE|ws_da|2026-11-19": {
 "hash": "8071d3eef843a79b",
@@ -73,11 +73,11 @@
 },
 "BE|ws_da|2026-11-21": {
 "hash": "6f32d16ea6952aab",
-"last_poll": "2026-11-21T10:17:42Z"
+"last_poll": "2026-11-21T17:44:02Z"
 },
 "BE|ws_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:42Z"
+"hash": "13adbbfcd1a8cc20",
+"last_poll": "2026-11-21T17:44:02Z"
 },
 "BE|ws_id|2026-11-19": {
 "hash": "4c944efd8aad704e",
@@ -89,11 +89,11 @@
 },
 "BE|ws_id|2026-11-21": {
 "hash": "6892692a1c9bee1e",
-"last_poll": "2026-11-21T10:17:43Z"
+"last_poll": "2026-11-21T17:44:02Z"
 },
 "BE|ws_id|2026-11-22": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:43Z"
+"last_poll": "2026-11-21T17:44:03Z"
 },
 "DE_LU|gen_da|2026-11-19": {
 "hash": "e8e7c1c9b2fce637",
@@ -105,11 +105,11 @@
 },
 "DE_LU|gen_da|2026-11-21": {
 "hash": "30a846857bf1f7de",
-"last_poll": "2026-11-21T10:16:39Z"
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DE_LU|gen_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:16:39Z"
+"hash": "26768e3f71e9ad8c",
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DE_LU|load_da|2026-11-19": {
 "hash": "78202219ced55232",
@@ -121,11 +121,11 @@
 },
 "DE_LU|load_da|2026-11-21": {
 "hash": "566b63cdc6a459d8",
-"last_poll": "2026-11-21T10:16:39Z"
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DE_LU|load_da|2026-11-22": {
-"hash": "5c95046e3fb99bc7",
-"last_poll": "2026-11-21T10:16:39Z"
+"hash": "0ac69e5c852354cb",
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DE_LU|price_da|2026-11-19": {
 "hash": "c990bee2ca5b1342",
@@ -137,11 +137,11 @@
 },
 "DE_LU|price_da|2026-11-21": {
 "hash": "9e952b5e3b77368f",
-"last_poll": "2026-11-21T10:16:53Z"
+"last_poll": "2026-11-21T17:43:43Z"
 },
 "DE_LU|price_da|2026-11-22": {
-"hash": "f9bb69f6a5bfee59",
-"last_poll": "2026-11-21T10:16:53Z"
+"hash": "3d84b00ae12161ce",
+"last_poll": "2026-11-21T17:43:44Z"
 },
 "DE_LU|ws_cur|2026-11-19": {
 "hash": "6aef911f36782644",
@@ -152,12 +152,12 @@
 "last_poll": "2026-11-20T21:28:47Z"
 },
 "DE_LU|ws_cur|2026-11-21": {
-"hash": "f81b77bb595c373e",
-"last_poll": "2026-11-21T10:16:53Z"
+"hash": "adc8bf4a91523a0a",
+"last_poll": "2026-11-21T17:43:42Z"
 },
 "DE_LU|ws_cur|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:16:53Z"
+"hash": "39da65ea9713d98c",
+"last_poll": "2026-11-21T17:43:43Z"
 },
 "DE_LU|ws_da|2026-11-19": {
 "hash": "c05bc1e71aefbab5",
@@ -169,11 +169,11 @@
 },
 "DE_LU|ws_da|2026-11-21": {
 "hash": "f138eff20cbb061e",
-"last_poll": "2026-11-21T10:16:39Z"
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DE_LU|ws_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:16:39Z"
+"hash": "00ca9db122b3f524",
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DE_LU|ws_id|2026-11-19": {
 "hash": "054b6448b398e0f4",
@@ -185,11 +185,11 @@
 },
 "DE_LU|ws_id|2026-11-21": {
 "hash": "c09a7afb087316e1",
-"last_poll": "2026-11-21T10:16:39Z"
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DE_LU|ws_id|2026-11-22": {
 "hash": null,
-"last_poll": "2026-11-21T10:16:39Z"
+"last_poll": "2026-11-21T17:43:41Z"
 },
 "DK1|gen_da|2026-11-19": {
 "hash": "d5b2fb27f63b68c0",
@@ -201,11 +201,11 @@
 },
 "DK1|gen_da|2026-11-21": {
 "hash": "c1df3d4d9820ab01",
-"last_poll": "2026-11-21T10:17:54Z"
+"last_poll": "2026-11-21T17:44:05Z"
 },
 "DK1|gen_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:55Z"
+"hash": "1a6dae26b17c961f",
+"last_poll": "2026-11-21T17:44:05Z"
 },
 "DK1|load_da|2026-11-19": {
 "hash": "d160a6c1fa0a5f01",
@@ -216,12 +216,12 @@
 "last_poll": "2026-11-20T21:29:53Z"
 },
 "DK1|load_da|2026-11-21": {
-"hash": "4ca533989a063e90",
-"last_poll": "2026-11-21T10:17:52Z"
+"hash": "3c9bd4079d7e7b95",
+"last_poll": "2026-11-21T17:44:04Z"
 },
 "DK1|load_da|2026-11-22": {
-"hash": "96d9b3f8a25b32f2",
-"last_poll": "2026-11-21T10:17:53Z"
+"hash": "66291547e2850b01",
+"last_poll": "2026-11-21T17:44:04Z"
 },
 "DK1|price_da|2026-11-19": {
 "hash": "2b74045ffabdbf7e",
@@ -233,11 +233,11 @@
 },
 "DK1|price_da|2026-11-21": {
 "hash": "23a88805b06fc50c",
-"last_poll": "2026-11-21T10:18:06Z"
+"last_poll": "2026-11-21T17:44:12Z"
 },
 "DK1|price_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:18:07Z"
+"hash": "8c5b707d9ad1d1dc",
+"last_poll": "2026-11-21T17:44:12Z"
 },
 "DK1|ws_cur|2026-11-19": {
 "hash": "a98c2ca4b649135a",
@@ -248,12 +248,12 @@
 "last_poll": "2026-11-20T21:30:07Z"
 },
 "DK1|ws_cur|2026-11-21": {
-"hash": "7340e2bad430d6c4",
-"last_poll": "2026-11-21T10:18:03Z"
+"hash": "086cb2567c8c713b",
+"last_poll": "2026-11-21T17:44:08Z"
 },
 "DK1|ws_cur|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:18:05Z"
+"hash": "a3249323586a0755",
+"last_poll": "2026-11-21T17:44:09Z"
 },
 "DK1|ws_da|2026-11-19": {
 "hash": "2a45fd0e1639cb8c",
@@ -265,11 +265,11 @@
 },
 "DK1|ws_da|2026-11-21": {
 "hash": "0dd0c437cdf58d55",
-"last_poll": "2026-11-21T10:17:55Z"
+"last_poll": "2026-11-21T17:44:05Z"
 },
 "DK1|ws_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:56Z"
+"hash": "13627319df665fb7",
+"last_poll": "2026-11-21T17:44:05Z"
 },
 "DK1|ws_id|2026-11-19": {
 "hash": "5f7937c07add7f0c",
@@ -281,11 +281,11 @@
 },
 "DK1|ws_id|2026-11-21": {
 "hash": "07c610bbe8c4d7a4",
-"last_poll": "2026-11-21T10:17:57Z"
+"last_poll": "2026-11-21T17:44:07Z"
 },
 "DK1|ws_id|2026-11-22": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:57Z"
+"last_poll": "2026-11-21T17:44:07Z"
 },
 "ES|gen_da|2026-11-19": {
 "hash": "fba80eb00f3b40c2",
@@ -297,11 +297,11 @@
 },
 "ES|gen_da|2026-11-21": {
 "hash": "0aa6e639c185c234",
-"last_poll": "2026-11-21T10:18:08Z"
+"last_poll": "2026-11-21T17:44:13Z"
 },
 "ES|gen_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:18:10Z"
+"hash": "fc4e26e15daebabd",
+"last_poll": "2026-11-21T17:44:13Z"
 },
 "ES|load_da|2026-11-19": {
 "hash": "ed2a08d27b0bc05e",
@@ -313,11 +313,11 @@
 },
 "ES|load_da|2026-11-21": {
 "hash": "7566c90475f0703d",
-"last_poll": "2026-11-21T10:18:07Z"
+"last_poll": "2026-11-21T17:44:12Z"
 },
 "ES|load_da|2026-11-22": {
-"hash": "a3e508cd731ee660",
-"last_poll": "2026-11-21T10:18:07Z"
+"hash": "c287653375ee0b7e",
+"last_poll": "2026-11-21T17:44:13Z"
 },
 "ES|price_da|2026-11-19": {
 "hash": "5ec9faf52168d1d4",
@@ -329,11 +329,11 @@
 },
 "ES|price_da|2026-11-21": {
 "hash": "5ba8fc4ed8dabebd",
-"last_poll": "2026-11-21T10:18:25Z"
+"last_poll": "2026-11-21T17:44:19Z"
 },
 "ES|price_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:18:29Z"
+"hash": "32efa1c17a24d6eb",
+"last_poll": "2026-11-21T17:44:19Z"
 },
 "ES|ws_cur|2026-11-19": {
 "hash": "5dca499ad1d424ae",
@@ -344,12 +344,12 @@
 "last_poll": "2026-11-20T21:30:44Z"
 },
 "ES|ws_cur|2026-11-21": {
-"hash": "d6bdb763cad4f50c",
-"last_poll": "2026-11-21T10:18:24Z"
+"hash": "407d666c02ae897e",
+"last_poll": "2026-11-21T17:44:16Z"
 },
 "ES|ws_cur|2026-11-22": {
-"hash": "5a54f52f949f95a4",
-"last_poll": "2026-11-21T10:18:24Z"
+"hash": "c867a74e6bcf85c6",
+"last_poll": "2026-11-21T17:44:16Z"
 },
 "ES|ws_da|2026-11-19": {
 "hash": "51c98be35dd1a23b",
@@ -361,11 +361,11 @@
 },
 "ES|ws_da|2026-11-21": {
 "hash": "8dacf48640241596",
-"last_poll": "2026-11-21T10:18:18Z"
+"last_poll": "2026-11-21T17:44:14Z"
 },
 "ES|ws_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:18:20Z"
+"hash": "b4034daac008261a",
+"last_poll": "2026-11-21T17:44:14Z"
 },
 "ES|ws_id|2026-11-19": {
 "hash": "e6eeafe05116055f",
@@ -377,11 +377,11 @@
 },
 "ES|ws_id|2026-11-21": {
 "hash": "fb2332d72dab6f47",
-"last_poll": "2026-11-21T10:18:22Z"
+"last_poll": "2026-11-21T17:44:15Z"
 },
 "ES|ws_id|2026-11-22": {
 "hash": null,
-"last_poll": "2026-11-21T10:18:24Z"
+"last_poll": "2026-11-21T17:44:15Z"
 },
 "FR|gen_da|2026-11-19": {
 "hash": "c54031836d2e1419",
@@ -393,11 +393,11 @@
 },
 "FR|gen_da|2026-11-21": {
 "hash": "4e8586550e0e0c61",
-"last_poll": "2026-11-21T10:16:54Z"
+"last_poll": "2026-11-21T17:43:48Z"
 },
 "FR|gen_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:16:54Z"
+"hash": "f48a40dc0200b305",
+"last_poll": "2026-11-21T17:43:48Z"
 },
 "FR|load_da|2026-11-19": {
 "hash": "512db9977489aac4",
@@ -409,11 +409,11 @@
 },
 "FR|load_da|2026-11-21": {
 "hash": "ff9bc6a67872f4ff",
-"last_poll": "2026-11-21T10:16:53Z"
+"last_poll": "2026-11-21T17:43:44Z"
 },
 "FR|load_da|2026-11-22": {
-"hash": "eb4ab52ee0fe15ee",
-"last_poll": "2026-11-21T10:16:54Z"
+"hash": "fb1f955f574dc7d0",
+"last_poll": "2026-11-21T17:43:48Z"
 },
 "FR|price_da|2026-11-19": {
 "hash": "dc72475fe300eed3",
@@ -425,11 +425,11 @@
 },
 "FR|price_da|2026-11-21": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:08Z"
+"last_poll": "2026-11-21T17:43:51Z"
 },
 "FR|price_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:10Z"
+"hash": "c57915b68cd89853",
+"last_poll": "2026-11-21T17:43:51Z"
 },
 "FR|ws_cur|2026-11-19": {
 "hash": "0e045aad1532adaa",
@@ -441,11 +441,11 @@
 },
 "FR|ws_cur|2026-11-21": {
 "hash": "1ee4b3db3d12c40b",
-"last_poll": "2026-11-21T10:17:07Z"
+"last_poll": "2026-11-21T17:43:50Z"
 },
 "FR|ws_cur|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:08Z"
+"hash": "84d4155b4fa7bfdc",
+"last_poll": "2026-11-21T17:43:51Z"
 },
 "FR|ws_da|2026-11-19": {
 "hash": "74b2b3cb5b30089c",
@@ -457,11 +457,11 @@
 },
 "FR|ws_da|2026-11-21": {
 "hash": "6066d08d14acee3e",
-"last_poll": "2026-11-21T10:17:06Z"
+"last_poll": "2026-11-21T17:43:48Z"
 },
 "FR|ws_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:06Z"
+"hash": "84d4155b4fa7bfdc",
+"last_poll": "2026-11-21T17:43:49Z"
 },
 "FR|ws_id|2026-11-19": {
 "hash": "6639ddd12f726f13",
@@ -473,11 +473,11 @@
 },
 "FR|ws_id|2026-11-21": {
 "hash": "33d1b8e8ca0b7c41",
-"last_poll": "2026-11-21T10:17:06Z"
+"last_poll": "2026-11-21T17:43:50Z"
 },
 "FR|ws_id|2026-11-22": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:07Z"
+"last_poll": "2026-11-21T17:43:50Z"
 },
 "NL|gen_da|2026-11-19": {
 "hash": "664f3ac2e82401a6",
@@ -489,11 +489,11 @@
 },
 "NL|gen_da|2026-11-21": {
 "hash": "0b66de32f74142b5",
-"last_poll": "2026-11-21T10:17:20Z"
+"last_poll": "2026-11-21T17:43:51Z"
 },
 "NL|gen_da|2026-11-22": {
 "hash": "7f374e9e5cbc80eb",
-"last_poll": "2026-11-21T10:17:20Z"
+"last_poll": "2026-11-21T17:43:51Z"
 },
 "NL|load_da|2026-11-19": {
 "hash": "bdfda058892988b5",
@@ -505,11 +505,11 @@
 },
 "NL|load_da|2026-11-21": {
 "hash": "0f66262eee869544",
-"last_poll": "2026-11-21T10:17:18Z"
+"last_poll": "2026-11-21T17:43:51Z"
 },
 "NL|load_da|2026-11-22": {
 "hash": "1d5d38753f93d0fa",
-"last_poll": "2026-11-21T10:17:19Z"
+"last_poll": "2026-11-21T17:43:51Z"
 },
 "NL|price_da|2026-11-19": {
 "hash": "7d7f292944e43d49",
@@ -521,11 +521,11 @@
 },
 "NL|price_da|2026-11-21": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:32Z"
+"last_poll": "2026-11-21T17:43:55Z"
 },
 "NL|price_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:32Z"
+"hash": "cc7985891a4683e0",
+"last_poll": "2026-11-21T17:43:56Z"
 },
 "NL|ws_cur|2026-11-19": {
 "hash": null,
@@ -537,11 +537,11 @@
 },
 "NL|ws_cur|2026-11-21": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:31Z"
+"last_poll": "2026-11-21T17:43:54Z"
 },
 "NL|ws_cur|2026-11-22": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:31Z"
+"last_poll": "2026-11-21T17:43:55Z"
 },
 "NL|ws_da|2026-11-19": {
 "hash": "5e36115f56a79fb7",
@@ -553,11 +553,11 @@
 },
 "NL|ws_da|2026-11-21": {
 "hash": "513f391256d6bd67",
-"last_poll": "2026-11-21T10:17:20Z"
+"last_poll": "2026-11-21T17:43:52Z"
 },
 "NL|ws_da|2026-11-22": {
-"hash": null,
-"last_poll": "2026-11-21T10:17:20Z"
+"hash": "4aff64cee45d771d",
+"last_poll": "2026-11-21T17:43:52Z"
 },
 "NL|ws_id|2026-11-19": {
 "hash": "5e36115f56a79fb7",
@@ -569,10 +569,10 @@
 },
 "NL|ws_id|2026-11-21": {
 "hash": "513f391256d6bd67",
-"last_poll": "2026-11-21T10:17:23Z"
+"last_poll": "2026-11-21T17:43:52Z"
 },
 "NL|ws_id|2026-11-22": {
 "hash": null,
-"last_poll": "2026-11-21T10:17:24Z"
+"last_poll": "2026-11-21T17:43:53Z"
 }
 }
