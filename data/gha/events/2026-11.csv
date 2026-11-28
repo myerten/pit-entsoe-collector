@@ -647,3 +647,17 @@ poll_utc,prev_poll_utc,collector,zone,var,delivery_date,event,n_points,sha256,sn
 2026-11-27T19:30:08Z,2026-11-27T10:10:59Z,gha,ES,ws_cur,2026-11-27,revised,185,33721d24e25e39e3,data/gha/snapshots/ws_cur/ES/2026-11-27/20261127T193008Z.csv.gz,200
 2026-11-27T19:30:08Z,2026-11-27T10:11:01Z,gha,ES,ws_cur,2026-11-28,revised,184,2e63cc2be6aef9b7,data/gha/snapshots/ws_cur/ES/2026-11-28/20261127T193008Z.csv.gz,200
 2026-11-27T19:30:11Z,2026-11-27T10:11:05Z,gha,ES,price_da,2026-11-28,first_seen,184,68ff7f8e85f01a06,data/gha/snapshots/price_da/ES/2026-11-28/20261127T193011Z.csv.gz,200
+2026-11-28T02:08:04Z,2026-11-27T19:29:24Z,gha,DE_LU,ws_cur,2026-11-28,revised,96,f31a82606c697b83,data/gha/snapshots/ws_cur/DE_LU/2026-11-28/20261128T020804Z.csv.gz,200
+2026-11-28T02:08:15Z,,gha,DE_LU,price_da,2026-11-29,first_seen,96,3ba5c81617b8f97f,data/gha/snapshots/price_da/DE_LU/2026-11-29/20261128T020815Z.csv.gz,200
+2026-11-28T02:08:30Z,2026-11-27T19:29:46Z,gha,BE,load_da,2026-11-28,revised,96,2f63b4684c1ad29e,data/gha/snapshots/load_da/BE/2026-11-28/20261128T020830Z.csv.gz,200
+2026-11-28T02:08:31Z,,gha,BE,load_da,2026-11-29,first_seen,96,b74ad04cd2292e49,data/gha/snapshots/load_da/BE/2026-11-29/20261128T020831Z.csv.gz,200
+2026-11-28T02:08:33Z,2026-11-27T19:29:50Z,gha,BE,ws_cur,2026-11-28,revised,84,fa8f659db55c3f5d,data/gha/snapshots/ws_cur/BE/2026-11-28/20261128T020833Z.csv.gz,200
+2026-11-28T02:08:33Z,,gha,BE,ws_cur,2026-11-29,first_seen,36,e1144a48602576a4,data/gha/snapshots/ws_cur/BE/2026-11-29/20261128T020833Z.csv.gz,200
+2026-11-28T02:08:38Z,2026-11-27T19:29:53Z,gha,DK1,load_da,2026-11-28,revised,24,d3f5f118dc30bb9b,data/gha/snapshots/load_da/DK1/2026-11-28/20261128T020838Z.csv.gz,200
+2026-11-28T02:08:40Z,2026-11-27T19:29:55Z,gha,DK1,ws_id,2026-11-28,first_seen,237,93e45a70512440e6,data/gha/snapshots/ws_id/DK1/2026-11-28/20261128T020840Z.csv.gz,200
+2026-11-28T02:08:41Z,2026-11-27T19:29:56Z,gha,DK1,ws_cur,2026-11-28,revised,237,93e45a70512440e6,data/gha/snapshots/ws_cur/DK1/2026-11-28/20261128T020841Z.csv.gz,200
+2026-11-28T02:08:42Z,2026-11-27T19:29:58Z,gha,ES,load_da,2026-11-28,revised,96,5de400b536e326ba,data/gha/snapshots/load_da/ES/2026-11-28/20261128T020842Z.csv.gz,200
+2026-11-28T02:08:42Z,,gha,ES,load_da,2026-11-29,first_seen,96,66f0f09bfbfb398e,data/gha/snapshots/load_da/ES/2026-11-29/20261128T020842Z.csv.gz,200
+2026-11-28T02:08:44Z,2026-11-27T19:30:08Z,gha,ES,ws_cur,2026-11-28,revised,183,ed696d19148d68b2,data/gha/snapshots/ws_cur/ES/2026-11-28/20261128T020844Z.csv.gz,200
+2026-11-28T02:08:47Z,,gha,ES,ws_cur,2026-11-29,first_seen,174,497d47f13f2a6d9e,data/gha/snapshots/ws_cur/ES/2026-11-29/20261128T020847Z.csv.gz,200
+2026-11-28T02:08:48Z,2026-11-27T19:30:11Z,gha,ES,price_da,2026-11-28,revised,277,9e81fb9c91707381,data/gha/snapshots/price_da/ES/2026-11-28/20261128T020848Z.csv.gz,200
